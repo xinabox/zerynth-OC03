@@ -1,0 +1,15 @@
+{
+    "fullname": "lib.xinabox.oc03",
+    "git_pointer": "github://xinabox/zerynth-oc03",
+    "title": "XinaBox OC03",
+    "description": "Module for XinaBox OC03 single channel dc-switch",
+    "keywords": [
+        "dc-switch",
+        "relay",
+        "I2C",
+        "oc03"
+        "xinabox"
+    ],
+    "repo": "official",
+    "version": "r2.1.2"
+}
